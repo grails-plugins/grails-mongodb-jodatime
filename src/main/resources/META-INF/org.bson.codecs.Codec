@@ -1,0 +1,2 @@
+grails.plugin.mongodb.jodatime.codec.IntervalCodec
+grails.plugin.mongodb.jodatime.codec.DateTimeCodec
